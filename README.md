@@ -3,6 +3,7 @@ Trippy :  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-th
 React App Fully Responsive TravelTour Website.  
 The Website has been made from scratch using react.  
 Realised as a personnal project.  
-Backend isn't connected on this demonstration version  
-If you want to see it live, check out my personal portflio at :  
+Backend isn't connected on this demonstration version 
+If you want to use this repo please check versions used in package.json , Also this project needs react-scripts / react-icons / react-router-dom packages to be installed.  
+If you want to see it live, check out my personal portflio at : 
 ![TrippyPic](https://user-images.githubusercontent.com/71343777/199231613-5fa32010-fee3-4a24-b32d-e4e4c255b89a.png)
